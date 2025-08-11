@@ -14,6 +14,6 @@
 <a href="https://www.linkedin.com/in/joão-muniz" style="text-decoration: none; border: none">
  <img alt="Muniz-LinkedIn" height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:dev-joaomuniz@gmail.com" style="text-decoration: none; border: none">
+<a href="mailto:dev.joaomuniz@gmail.com" style="text-decoration: none; border: none">
   <img alt="Muniz-Gmail" height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
